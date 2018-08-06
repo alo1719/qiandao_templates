@@ -31,3 +31,8 @@
 
 因为qiandao是通过docker部署在自己的云服务器上，没有在签到站上上传模板，所以无法使用cookies获取助手（cookies获取助手仅限于qiandao.today使用），也无法在原站点上传模板(~~就是懒~~)。
 
+#### Todo List：
+
+[ ] ZODGAME 每日签到
+
+[ ] 天使动漫 每日签到
